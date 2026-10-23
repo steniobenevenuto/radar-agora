@@ -395,9 +395,14 @@ export default function Home() {
             </p>
           </div>
 
-          <span className="shrink-0 self-start rounded-xl border border-white/20 bg-white/10 px-5 py-3 text-sm font-bold">
-            Em breve
-          </span>
+          <a
+            href="https://wa.me/5585986828908?text=Ol%C3%A1%21%20Tenho%20interesse%20em%20anunciar%20minha%20empresa%20no%20Radar%20Agora%20Cear%C3%A1.%20Pode%20me%20passar%20as%20op%C3%A7%C3%B5es%20e%20valores%3F"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="shrink-0 self-start rounded-xl border border-white/20 bg-white/10 px-5 py-3 text-sm font-bold transition hover:bg-white/20 focus:outline-none focus:ring-2 focus:ring-white/70"
+          >
+            Anuncie conosco →
+          </a>
         </div>
       </section>
 
